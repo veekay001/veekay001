@@ -22,7 +22,7 @@
 
 <ul>
   <li><strong>Languages:</strong> Python, Bash</li>
-  <li><strong>Databases:</strong> MySQLL</li>
+  <li><strong>Databases:</strong> MySQL</li>
   <li><strong>Tools:</strong> Git, Linux, VSCode, insomnia</li>
   <li><strong>Cloud & DevOps:</strong> AWS (Basics), CI/CD</li>
 </ul>
