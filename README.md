@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm [Kiki Venessa]! 👋
 
-<!--
-**veekay001/veekay001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **[Junior developper]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: **[backend web programming and AWS Cloud Practitioner]**
+- 🔭 Working on: **[current projects or side-projects]**
+- 🌍 Languages: **[English, French , pidgin english, limbum]**
+- 📫 How to reach me: **[kiki.ngarka@gmail.com]**
+- ⚡ Fun fact: **[]**
+
+
+
+
+## Get in Touch 📬
+
+
+- **[LinkedIn]**(https://www.linkedin.com/in/kiki-ngarka-venessa/)
+- **[Twitter]**(https://x.com/veekiki_)
+
+
