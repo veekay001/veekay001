@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>A passionate Backend Developer & Problem Solver | ALX Software Engineering Learner</em><br>
-  <strong>Driven by the mission to build impactful educational solutions 🌍</strong>
+  <strong>Driven by the mission to build impactful solutions 🌍</strong>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 
 
-###🧠 My Tech Stack
+🧠 <strong>My Tech Stack</strong>
 
 <ul>
   <li><strong>Languages:</strong> Python, Bash</li>
