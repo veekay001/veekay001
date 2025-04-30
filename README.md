@@ -8,17 +8,17 @@
 ---
 
 ### 💡 About Me
-```html
+
 <ul>
   <li>🎓 I’m currently learning at <strong>ALX Africa's Software Engineering Program</strong>.</li>
   <li>🌱 My focus is on <strong>backend development</strong> using Python, node.js and express.js.</li>
   <li>🎯 My mission is to create scalable and inclusive solutions for <strong>education systems</strong>.</li>
   <li>📚 I'm passionate about <em>bridging the digital learning gap</em> through open-source and smart tools.</li>
 </ul>
+
+
 🧠 My Tech Stack
-html
-Copy
-Edit
+
 <ul>
   <li><strong>Languages:</strong> Python, Bash</li>
   <li><strong>Databases:</strong> MySQLL</li>
