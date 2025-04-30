@@ -17,7 +17,8 @@
 </ul>
 
 
-🧠 My Tech Stack
+
+###🧠 My Tech Stack
 
 <ul>
   <li><strong>Languages:</strong> Python, Bash</li>
@@ -36,7 +37,9 @@
   <li>🐦 <a href="https://x.com/veekiki_">Twitter</a></li>
 </ul>
 
+
 🧭 Goals for 2025
+
 🔲 Contribute to at least 3 open-source education-focused projects
 
 🔲 Master Docker, Python, and AWS for scalable backends
